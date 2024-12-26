@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Home | Eternus® </title>
+    <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://fonts.cdnfonts.com/css/gilroy-bold" rel="stylesheet">
+    <link rel = "stylesheet" href = "style.css">
+</head>
+<body>
+    <div id = "main">
+        
+        
+        <div id = "page1">
+            <div id = "cursor">
+                <h5 style="color: white;">eternus</h5>
+            </div>
+            <video autoplay loop muted src = "./assets/rolex-watches-collection-hub-cover-autoplay.webm"></video>
+            <div id = "page1-content">
+                <nav>
+                    <h3> Masterpieces of Time </h3>
+                    <h4> Since 2024 </h4>
+                </nav>
+                <h1>
+                    <span>E</span><span>t</span><span>e</span><span>r</span><span>n</span><span>u</span><span>s</span>
+                </h1>
+            </div>   
+        </div>
+        
+        
+        <section id = "page2">
+            <div class="about-section">
+                <div class="horizontal"></div>
+                <h1> Welcome to Eternus, where luxury and craftsmanship converge to redefine the art of timekeeping. At Eternus, we believe a watch is more than a tool to track hours; it is a symbol of sophistication, a personal statement, and an enduring legacy.</h1>
+                <p>Explore Our Services And Engaging Timepieces.</p>
+            </div>
+            <div class="horizontal"></div>
+            <section id="new_arrivals">
+                <h2>New Arrivals</h2>
+                <div class="watch_container">
+                    <a href="./watch1.html">  <div class="watch_card">
+                        <img src="./assets/Watches/1. ASTRONOMIA BLACK DRAGON.png" alt="">
+                        <h3>ASTRONOMIA BLACK DRAGON</h3>
+                    </div></a>
+                    <div class="vertical"></div>
+                    <a href="./watch2.html">  <div class="watch_card">
+                        <img src="./assets/Watches/2. BUGATTI CHIRON TOURBILLON BAGUETTE RUBY.png" alt="" >
+                        <h3>BUGATTI CHIRON TOURBILLON BAGUETTE RUBY</h3>
+                    </div></a>
+                    <div class="vertical"></div>
+                  <a href="./watch3.html">  <div class="watch_card">
+                        <img src="./assets/Watches/Astronomia-Solar-blue.png" alt="">
+                        <h3>ASTRONOMIA OCTOPUS</h3>+
+                    </div></a>
+                    </div> 
+                </section><div class="horizontal"></div>
+
+
+                <section id="explore">
+                    <h2>Explore</h2>
+                    <div class="watch_container2">
+                        <a href="./watch4.html">  <div class="watch_card2">
+                            <img src="./assets/Watches/4. ROLEX DAY-DATE SILVER.avif" alt="">
+                            <h3>ROLEX DAY DATE SILVER</h3>
+                            <p>$500,000</p>
+                        </div></a>
+                        
+                        <a href="./watch5.html">  <div class="watch_card2">
+                            <img src="./assets/Watches/5. TISSOT BLACK.png" alt="" >
+                            <h3>TISSOT BLACK</h3>
+                            <p>$5,000</p>
+                        </div></a>
+                        
+                        <a href="./watch6.html">  <div class="watch_card2">
+                            <img src="./assets/Watches/6. ROLEX BLACK LEATHER.avif" alt="">
+                            <h3>ROLEX BLACK LEATHER</h3>
+                            <p>$25,000</p>
+                        </div></a>
+
+                      <a href="./watch7.html">  <div class="watch_card2">
+                            <img src="./assets/Watches/7. BLUE CHRONOGRAPH.png" alt="">
+                            <h3>TISSOT BLUE CHRONOGRAPH</h3>
+                            <p>$50,000</p>
+                        </div></a>
+
+
+                        <div class="watch_card2">
+                            <img src="./assets/Watches/8. ROLEX DAY-DATE GOLD.avif" alt="">
+                            <h3>ROLEX DAY DATE GOLD</h3>
+                            <p>$1,500,000</p>
+
+                        </div></a> <a href="./watch9.html">  <div class="watch_card2">
+                            <img src="./assets/Watches/9. TISSOT NAVIGATOR.png" alt="">
+                            <h3>TISSOT NAVIGATOR</h3>
+                            <p>$50,000</p>
+
+                        </div></a> <a href="./watch10.html">  <div class="watch_card2">
+                            <img src="./assets/Watches/10. ROLEX DAYTONA ROYAL BLUE.avif" alt="">
+                            <h3>ROLEX DAYTONA ROYAL BLUE</h3>
+                            <p>$1,500,000</p>
+
+                        </div></a> <a href="./watch11.html">  <div class="watch_card2">
+                            <img src="./assets/Watches/11. TISSOT GOLD.png" alt="">
+                            <h3>TISSOT GOLD</h3>
+                            <p>$71,000</p>
+                        </div></a>
+
+                        <div class="watch_card2">
+                            <img src="./assets/Watches/12. ROLEX DAY-DATE SILVER.avif" alt="">
+                            <h3>ROLEX DAY DATE SILVER</h3>
+                            <p>COMING SOON</p>
+
+                        </div></a> <div class="watch_card2">
+                            <img src="./assets/Watches/13. TISSOT CLASSIC LEATHER.png" alt="">
+                            <h3>TISSOT CLASSIC LEATHER</h3>
+                            <p>COMING SOON</p>
+
+                        </div></a> <div class="watch_card2">
+                            <img src="./assets/Watches/14. SEIKO ASTRON GPS.webp" alt="">
+                            <h3>SEIKO ASTRON GPS</h3>
+                            <p>COMING SOON</p>
+
+                        </div></a> <div class="watch_card2">
+                            <img src="./assets/Watches/15. SEIKO AUTOMATIC SILVER.webp" alt="">
+                            <h3>SEIKO AUTOMATIC SILVER</h3>
+                            <p>COMING SOON</p>
+                        </div></a>
+                        </div> 
+                    </section>
+        </section>
+
+        <div class="footer">
+            <hr>
+            <p> Eternus® 2024 </p>
+        </div>
+
+    <script src = "https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.js"></script>
+    <script src = "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" integrity="sha512-7eHRwcbYkK4d9g/6tD/mhkf++eoTHwpNM9woBxtPUBWm67zeAfFC+HrdoE2GanKeocly/VxeLvIqwvCdk7qScg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src = "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" integrity="sha512-onMTRKJBKz8M1TnqqDuGBlowlH0ohFzMXYRNebz+yOcc5TQr/zAKsthzhuv0hiyUKEiQEQXEynnXCvNTOk50dg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src = "script.js"></script>
+
+</body>
+</html>
