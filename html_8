@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TISSOT BLUE CHRONOGRAPH</title>
+    <link rel="stylesheet" href="style4.css">
+</head>
+<body>
+
+    <div class="container">
+        <!-- Left Section: Product Image -->
+        <div class="image-section">
+            <img src="./assets/Watches/7. BLUE CHRONOGRAPH.png" alt="TISSOT BLUE CHRONOGRAPH">
+        </div>
+
+        <!-- Right Section: Product Details -->
+        <div class="details-section">
+            <h2>Men's</h2>
+            <h1>TISSOT BLUE CHRONOGRAPH</h1>
+            <p class="category">Automatic Collection</p>
+            <p class="price">$50,000</p>
+            <p class="description">Discover the perfect blend of classic style and reliable performance with the Seiko Automatic 33,000, designed for everyday elegance.</p>
+
+            <h3>Key Features:</h3>
+            <ul>
+                <li>Automatic self-winding movement with manual winding option</li>
+                <li>Hardlex crystal for enhanced durability</li>
+                <li>Day and date display at the 3 o'clock position</li>
+                <li>Stainless steel case and bracelet</li>
+                <li>Water resistance: 50 meters</li>
+                <li>Exhibition case back to showcase the movement</li>
+            </ul>
+
+            <button class="shop-button">Buy Now</button>
+
+            <br>
+        </div>
+    </div>
+
+</body>
+</html>
