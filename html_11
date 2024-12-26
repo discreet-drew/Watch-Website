@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROLEX DAYTONA ROYAL BLUE</title>
+    <link rel="stylesheet" href="style4.css">
+</head>
+<body>
+
+    <div class="container">
+        <!-- Left Section: Product Image -->
+        <div class="image-section">
+            <img src="./assets/Watches/10. ROLEX DAYTONA ROYAL BLUE.avif" alt="ROLEX DAYTONA ROYAL BLUE">
+        </div>
+
+        <!-- Right Section: Product Details -->
+        <div class="details-section">
+            <h2>Men's</h2>
+            <h1>ROLEX DAYTONA ROYAL BLUE</h1>
+            <p class="category">Classic Collection</p>
+            <p class="price">$1,500,000/p>
+            <p class="description">Experience timeless elegance with the Tissot 853, a perfect blend of Swiss craftsmanship and modern design, tailored for the sophisticated gentleman.</p>
+
+            <h3>Key Features:</h3>
+            <ul>
+                <li>Swiss automatic movement for precise timekeeping</li>
+                <li>Elegant sapphire crystal for enhanced durability</li>
+                <li>Classic white dial with Roman numeral hour markers</li>
+                <li>Stainless steel case with a premium leather strap</li>
+                <li>Water resistance: 50 meters</li>
+                <li>Exhibition case back showcasing the intricate movement</li>
+            </ul>
+
+            <button class="shop-button">Buy Now</button>
+
+            <br>
+        </div>
+    </div>
+
+</body>
+</html>
