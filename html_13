@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tissot 1853 Swiss Made</title>
+    <link rel="stylesheet" href="style4.css">
+</head>
+<body>
+
+    <div class="container">
+        <!-- Left Section: Product Image -->
+        <div class="image-section">
+            <img src="./assets/Watches/Patek Phillepe/73,55,489.jpg" alt="PATEK PHILIPPE GENVE BLACK">
+        </div>
+
+        <!-- Right Section: Product Details -->
+        <div class="details-section">
+            <h2>Men's</h2>
+            <h1>PATEK PHILIPPE GENVE BLACK</h1>
+            <p class="category">Heritage Collection</p>
+            <p class="price">$735,000</p>
+            <p class="description">Discover the timeless elegance of the Tissot 1853 Swiss Made, a perfect embodiment of Swiss precision, tradition, and craftsmanship designed for the modern gentleman.</p>
+
+            <h3>Key Features:</h3>
+            <ul>
+                <li>Swiss quartz movement for ultimate accuracy</li>
+                <li>Classic white dial with sleek Roman numeral hour markers</li>
+                <li>Stainless steel case with a polished finish</li>
+                <li>Sapphire crystal glass for exceptional scratch resistance</li>
+                <li>Date display at the 3 o'clock position</li>
+                <li>Water resistance up to 50 meters</li>
+                <li>Genuine leather strap with a stainless steel buckle</li>
+            </ul>
+
+            <button class="shop-button">Buy Now</button>
+            
+            <br>
+        </div>
+    </div>
+
+</body>
+</html>
