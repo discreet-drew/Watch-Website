@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROLEX BLACK LEATHER</title>
+    <link rel="stylesheet" href="style4.css">
+</head>
+<body>
+
+    <div class="container">
+        <!-- Left Section: Product Image -->
+        <div class="image-section">
+            <img src="./assets/Watches/6. ROLEX BLACK LEATHER.avif" alt="ROLEX BLACK LEATHER">
+        </div>
+
+        <!-- Right Section: Product Details -->
+        <div class="details-section">
+            <h2>Men's</h2>
+            <h1>ROLEX BLACK LEATHER</h1>
+            <p class="category">Luxury Collection</p>
+            <p class="price">$25,000</p>
+            <p class="description">Experience timeless elegance with the Patek Philippe Geneve Golden Watch, crafted to perfection with unparalleled precision and luxury.</p>
+
+            <h3>Key Features:</h3>
+            <ul>
+                <li>Automatic self-winding movement</li>
+                <li>18k solid gold case and bracelet</li>
+                <li>Day, date, and moon phase indicators</li>
+                <li>Scratch-resistant sapphire crystal</li>
+                <li>Water resistance: 30 meters</li>
+                <li>Elegant sunburst dial with gold applied hour markers</li>
+            </ul>
+
+            <button class="shop-button">Buy Now</button>
+
+            <br>
+        </div>
+    </div>
+
+</body>
+</html>
