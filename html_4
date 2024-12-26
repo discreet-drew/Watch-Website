@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASTRONOMIA OCTOPUS</title>
+    <link rel="stylesheet" href="style3.css">
+</head>
+<body>
+
+    <div class="container">
+        <!-- Left Section: Product Image -->
+        <div class="image-section">
+            <img src="./assets/Watches/Astronomia-Solar-blue.png" alt="ASTRONOMIA OCTOPUS">
+        </div>
+
+        <!-- Right Section: Product Details -->
+        <div class="details-section">
+            <h2>Men's</h2>
+            <h1>ASTRONOMIA OCTOPUS</h1>
+            <p class="category">Prospex Collection</p>
+            <p class="price">CALL FOR ENQUIRY</p>
+            <p class="description">Experience the next generation of timekeeping with this updated model featuring advanced GPS technology and a sleek design.</p>
+
+            <h3>Key Features:</h3>
+            <ul>
+                <li>Enhanced GPS functionality for precise timekeeping</li>
+                <li>Solar-powered with a longer battery life</li>
+                <li>World time function with 39 time zones</li>
+                <li>Water resistance: 200 meters</li>
+            </ul>
+
+            <button class="shop-button">Enquire Now</button>
+
+            <br>
+        </div>
+    </div>
+
+</body>
+</html>
